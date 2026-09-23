@@ -1,0 +1,21 @@
+本目录媒体许可
+
+原创插画与课堂动画
+  为本教案绘制 / 编写，随仓库使用。
+
+eso1907a.jpg（文件名 eht-m87.jpg）
+  ESO / Event Horizon Telescope Collaboration
+  CC BY 4.0
+  https://www.eso.org/public/images/eso1907a/
+
+eso1907c-m87-zoom.mp4
+  ESO/L. Calçada, Digitized Sky Survey 2, ESA/Hubble,
+  RadioAstron, De Gasperin et al., Kim et al., EHT Collaboration.
+  Music: Niklas Falcke
+  CC BY 4.0
+  https://www.eso.org/public/videos/eso1907c/
+
+rhic-star-collision.jpg
+  Brookhaven National Laboratory / STAR Collaboration
+  CC BY 2.0
+  Wikimedia Commons: View of gold ions collision
